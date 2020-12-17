@@ -1,2 +1,3 @@
+include ':d2'
 include ':app'
 rootProject.name = "day03_zy"

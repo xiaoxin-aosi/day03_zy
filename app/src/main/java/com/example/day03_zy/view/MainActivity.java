@@ -25,7 +25,7 @@ public class MainActivity extends BaseActivity<MainPresenter> implements MainCon
 
     @Override
     protected int getViewId() {
-        return 0;
+        return R.layout.activity_main;
     }
 
     @Override
